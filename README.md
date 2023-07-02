@@ -10,7 +10,7 @@ mkdir build
 cd build
 cmake ..
 make
-./test/1_throughput
+./test/correctness
 ```
 
 ## Evaluation
